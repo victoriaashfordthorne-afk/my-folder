@@ -159,8 +159,10 @@ h1, h2, h3, h4, h5 {
 
 /* ================= ABOUT ================= */
 .about {
-    padding: 100px 30px;
+    padding: 200px 30px;
     background: url("about-bg.png") left/contain no-repeat;
+   
+   
 }
 
 .about__container {
@@ -237,3 +239,10 @@ h1, h2, h3, h4, h5 {
 }
 
 /* ================= PRICING ================= */
+.grid-container{
+    border: 2px solid red;
+
+}
+.group1{
+    border: 1px solid green;
+}
